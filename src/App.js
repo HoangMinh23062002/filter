@@ -12,6 +12,7 @@ const USERS = [
     { id: 6, name: 'Ngài', age: 20 },
     { id: 7, name: 'Hứ', age: 19 },
     { id: 8, name: 'Điệu', age: 20 },
+    // Hoàng Tuấn Minh nèg
 ];
 
 function Filter() {
